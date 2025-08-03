@@ -1,0 +1,6 @@
+<meta>
+    <script src="luaS.lua" type="server"/>
+    <script src="luaC.lua" type="client"/>
+
+    <fetch url="https://api-music.fantasyresources.net/*" />
+</meta>
